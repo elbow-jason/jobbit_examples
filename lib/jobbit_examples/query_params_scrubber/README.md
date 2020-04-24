@@ -1,7 +1,7 @@
 
 # JobbitExamples.QueryParamsScrubber
 
-An example that demonstrates the value proposition of using `Jobbit`.
+This example demonstrates how and why to use `Jobbit`.
 
 #### Expectations
 
