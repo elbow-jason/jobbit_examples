@@ -1,0 +1,3 @@
+%{
+  "jobbit": {:git, "https://github.com/elbow-jason/jobbit.git", "b5c686c19a6f935d753fe56836a4266a6323d2b0", [ref: "b5c686c"]},
+}
