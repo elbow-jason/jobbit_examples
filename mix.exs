@@ -22,6 +22,7 @@ defmodule JobbitExamples.MixProject do
   defp deps do
     [
       {:jobbit, github: "elbow-jason/jobbit", ref: "b5c686c"},
+
     ]
   end
 end
